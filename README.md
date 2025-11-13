@@ -10,7 +10,7 @@ O objetivo é documentar minha evolução no aprendizado de POO, começando com 
 
 ## 🚀 Projeto Destaque: CRUD com Java Web
 
-O principal projeto deste repositório é o **`06-Projeto-CRUD-JavaWeb`**.
+O principal projeto deste repositório é o **`Projeto-CRUD-JavaWeb`**.
 
 Este foi meu **primeiro projeto web** utilizando Java, desenvolvido no 4º semestre da faculdade (iniciado em 01/08/2024). É um sistema simples, mas funcional, de cadastro de produtos.
 
