@@ -12,7 +12,7 @@ O objetivo é documentar minha evolução no aprendizado de POO, começando com 
 
 O principal projeto deste repositório é o **`Projeto-CRUD-JavaWeb`**.
 
-Este foi meu **primeiro projeto web** utilizando Java, desenvolvido no 4º semestre da faculdade (iniciado em 01/08/2024). É um sistema simples, mas funcional, de cadastro de produtos.
+Este foi meu **primeiro projeto web** utilizando Java, desenvolvido no 4º semestre da faculdade (iniciado em 04/03/2024). É um sistema simples, mas funcional, de cadastro de produtos.
 
 ### Funcionalidades
 
